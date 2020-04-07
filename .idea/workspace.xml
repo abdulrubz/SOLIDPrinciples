@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eea22394-bf0e-40c5-8c54-f95857a654ee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZyZXilAYWOmMHAuuebHyKuZ3gX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="SolidViolation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="514" y="109" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1585816912261">
+      <screen x="47" y="27" width="1319" height="741" />
+    </state>
+    <state x="514" y="109" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/47.27.1319.741@47.27.1319.741" timestamp="1585816912261" />
+    <state width="1277" height="210" key="GridCell.Tab.0.bottom" timestamp="1586246723436">
+      <screen x="47" y="27" width="1319" height="741" />
+    </state>
+    <state width="1277" height="210" key="GridCell.Tab.0.bottom/47.27.1319.741@47.27.1319.741" timestamp="1586246723436" />
+    <state width="1277" height="210" key="GridCell.Tab.0.center" timestamp="1586246723435">
+      <screen x="47" y="27" width="1319" height="741" />
+    </state>
+    <state width="1277" height="210" key="GridCell.Tab.0.center/47.27.1319.741@47.27.1319.741" timestamp="1586246723435" />
+    <state width="1277" height="210" key="GridCell.Tab.0.left" timestamp="1586246723435">
+      <screen x="47" y="27" width="1319" height="741" />
+    </state>
+    <state width="1277" height="210" key="GridCell.Tab.0.left/47.27.1319.741@47.27.1319.741" timestamp="1586246723435" />
+    <state width="1277" height="210" key="GridCell.Tab.0.right" timestamp="1586246723436">
+      <screen x="47" y="27" width="1319" height="741" />
+    </state>
+    <state width="1277" height="210" key="GridCell.Tab.0.right/47.27.1319.741@47.27.1319.741" timestamp="1586246723436" />
+    <state x="123" y="27" width="1157" height="741" key="new project wizard" timestamp="1585910195262">
+      <screen x="47" y="27" width="1319" height="741" />
+    </state>
+    <state x="123" y="27" width="1157" height="741" key="new project wizard/47.27.1319.741@47.27.1319.741" timestamp="1585910195262" />
+    <state x="369" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1585815300668">
+      <screen x="47" y="27" width="1319" height="741" />
+    </state>
+    <state x="369" y="89" width="672" height="678" key="search.everywhere.popup/47.27.1319.741@47.27.1319.741" timestamp="1585815300668" />
+  </component>
+</project>
